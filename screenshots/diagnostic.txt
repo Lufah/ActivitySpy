@@ -1,0 +1,8 @@
+01-20 00:53:34.785      617-617/jkluu1.washington.edu.activityspy E/Trace﹕ error opening trace file: No such file or directory (2)
+01-20 00:53:35.396      617-617/jkluu1.washington.edu.activityspy I/MyLogs﹕ onCreate() event fired
+01-20 00:53:35.396      617-617/jkluu1.washington.edu.activityspy I/MyLogs﹕ onStart() event fired
+01-20 00:53:35.406      617-617/jkluu1.washington.edu.activityspy I/MyLogs﹕ onResume() event fired
+01-20 00:54:28.886      617-617/jkluu1.washington.edu.activityspy I/MyLogs﹕ onPause() event fired
+01-20 00:54:29.685      617-617/jkluu1.washington.edu.activityspy I/MyLogs﹕ onStop() event fired
+01-20 00:54:29.685      617-617/jkluu1.washington.edu.activityspy I/MyLogs﹕ onDestroy() event fired
+01-20 00:54:29.685      617-617/jkluu1.washington.edu.activityspy E/MyLogs﹕ We're doing down captain!
